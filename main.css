@@ -125,8 +125,8 @@ li{
 	
 }
 @font-face{
-font-family:'#The Historia Demo';
-src:url(#TheHistoriaDemo.ttf);
+font-family:'The Historia Demo';
+src:'TheHistoriaDemo.ttf';
 }
 .nav-link{
 	font-family: 'The Historia Demo', sans-serif;
