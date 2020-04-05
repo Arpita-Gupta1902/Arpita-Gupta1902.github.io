@@ -258,8 +258,8 @@ margin-right:350px;
 margin-right:230px;
 
 }
-.vvbox-content.swipe-right{
-    margin-left:-50px;
+.vbox-content.swipe-right{
+    margin-left:50px;
 }
 }
 /* ---------- preloader ----------
