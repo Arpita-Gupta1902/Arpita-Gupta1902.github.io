@@ -922,7 +922,9 @@ height:100%;
 .skill{
 margin-top:50px;
 margin-left:30px;
-font-size:-15px;
+}
+.skill h4{
+font-size:10px;
 }
 .abc{
 	filter: blur(0px);
