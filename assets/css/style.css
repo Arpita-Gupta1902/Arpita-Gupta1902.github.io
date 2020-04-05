@@ -133,3 +133,11 @@ padding: 10;
 margin: 0 auto 35px auto;
 }
 }
+@media screen and (max-width: 600px){
+  .portfolio #portfolio-flters li {
+  font-size: 12px;
+  padding: 6;
+  margin: 0 auto 35px auto;
+  }
+  }
+  
