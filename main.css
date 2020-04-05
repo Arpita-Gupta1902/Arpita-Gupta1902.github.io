@@ -124,10 +124,6 @@ li{
 	margin: 0 2rem;
 	
 }
-@font-face{
-	font-family: 'The Historia Demo';
-	src:url(TheHistoriaDemo.ttf);
-}
 .nav-link{
 	font-family: 'The Historia Demo', sans-serif;
 	font-size: 4rem;
@@ -886,7 +882,7 @@ margin-bottom: 60px;
 }
 .Skills{
 margin-bottom: -20px;
-margin-top: -200px;
+margin-top: -600px;
 }
 .Skills img{
 margin-left: -10px;
