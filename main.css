@@ -856,6 +856,7 @@ left : -4.5rem;
 }
 .timeline{
 margin-top: -20px;
+margin-left:3px;
 }
 .timeline h1{
 margin-top : 4rem;
