@@ -847,6 +847,7 @@ font-size: -6rem;
 }
 .timeline ul{
 margin : 0 0 0 auto;
+margin-left: 30px;
 }
 .timeline .date:before{
 left: -17rem;
