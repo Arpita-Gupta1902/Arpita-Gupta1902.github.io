@@ -837,10 +837,10 @@ flex-direction: column;
 }
 li{
 margin: -3.5rem;
-margin-left:10px;
 }
 .nav-link{
 font-size: 3.5rem;
+margin-left:10px;
 }
 .section-heading h1{
 font-size: -6rem;
