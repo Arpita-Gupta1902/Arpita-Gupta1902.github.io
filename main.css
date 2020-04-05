@@ -852,7 +852,7 @@ margin : 0 0 0 auto;
 left: -17rem;
 }
 .timeline .date::after{
-left : -4rem;
+left : -4.5rem;
 }
 .timeline{
 margin-top: -20px;
