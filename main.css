@@ -836,7 +836,7 @@ font-size: 1.7rem;
 flex-direction: column;
 }
 li{
-margin: -2.5rem;
+margin: -1.5rem;
 }
 .nav-link{
 font-size: 2.8rem;
@@ -921,9 +921,6 @@ height:100%;
 .skill{
 margin-top:50px;
 margin-left:30px;
-}
-.nav-list{
-margin-left: 50px;
 }
 }
 /*End media queries*/
