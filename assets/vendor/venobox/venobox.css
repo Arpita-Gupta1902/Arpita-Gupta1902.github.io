@@ -244,7 +244,7 @@ user-select: none;
     margin-left: 200px !important;
 }
 .vbox-animated{
-    webkit-transition: margin 300ms ease-out;
+    -webkit-transition: margin 300ms ease-out;
     transition: margin 300ms ease-out;
 }
 @media screen and (max-width: 768px){
