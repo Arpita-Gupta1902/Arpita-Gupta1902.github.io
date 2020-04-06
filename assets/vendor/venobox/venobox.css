@@ -178,10 +178,6 @@
         width: 640px;
         height: 360px;
     }
-    .vbox-close{
-        margin-right:230px;
-        
-        }
 }
 @media (min-width: 992px) {
     .venoframe, .vbox-inline{
@@ -194,10 +190,6 @@
         width: 960px;
         height: 540px;
     }
-    .vbox-close{
-        margin-right:350px;
-        
-        }
 }
 /* 
 Please do NOT edit this part! 
@@ -255,7 +247,18 @@ user-select: none;
     webkit-transition: margin 300ms ease-out;
     transition: margin 300ms ease-out;
 }
+@media screen and (max-width: 768px){
+.vbox-close{
+margin-right:350px;
 
+}
+}
+@media screen and (max-width: 600px){
+.vbox-close{
+margin-right:230px;
+
+}
+}
 /* ---------- preloader ----------
  * SPINKIT 
  * http://tobiasahlin.com/spinkit/
