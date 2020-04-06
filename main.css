@@ -743,7 +743,7 @@ color: #bb0000;
 
 /*Start media queries*/
 
-@media screen and (max-width: 768px){
+@media screen and (min-width: 992px){
 body{
 background:url("images/sitebg2.jpg") no-repeat center fixed;
 background-size: cover;
@@ -821,7 +821,7 @@ blockquote {
 opacity:0;
 }
 }
-@media screen and (max-width: 600px){
+@media screen and (min-width: 768px){
 body{
 background:url("images/sitebg2.jpg") no-repeat center fixed;
 background-size: cover;
