@@ -258,10 +258,6 @@ margin-right:350px;
 margin-right:230px;
 
 }
-.vbox-animated{
-    -webkit-transition: margin 300ms ease-out;
-    transition: margin 300ms ease-out;
-}
 }
 /* ---------- preloader ----------
  * SPINKIT 
